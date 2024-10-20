@@ -1,6 +1,6 @@
-# The results of web applicaton testing:
+# 💻 The results of web applicaton testing:
 
-There are some useful docs that were created for testing http://demowebshop.tricentis.com/ during my studies + manipulations in Charles:
+Here are some useful docs that were created for testing http://demowebshop.tricentis.com/ during my studies + manipulations in Charles:
 
 - [Test plan](https://docs.google.com/spreadsheets/d/17PUxV-fRa5lN5rTqiHvpVemua7Wo7AjhKmmi-GN7zxs/edit?gid=0#gid=0);
 - [Check-list1](https://docs.google.com/spreadsheets/d/1kDn5JuHvWHt3BYN4y-2fPP0-eZq_NQ8j8QRhi9d4apg/edit?gid=0#gid=0);
